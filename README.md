@@ -2,6 +2,12 @@
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
 
+## install
+
+* sudo apt install qttools5-dev libxkbfile-dev
+
+* 7B76313B70726F3BE5BDAC20E585B33B313B73796E313333323040676D61696C2E636F6D3B3B3B7D
+
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 **News:** Visit the [Symless blog](https://symless.com/blog/) for updates
