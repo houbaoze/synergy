@@ -4,7 +4,7 @@ This is the open source core component of Synergy, a keyboard and mouse sharing 
 
 ## install
 
-* sudo apt install qttools5-dev libxkbfile-dev
+* sudo apt install qttools5-dev libxkbfile-dev libxtst-dev libnotify-dev
 
 * 7B76313B70726F3BE5BDAC20E585B33B313B73796E313333323040676D61696C2E636F6D3B3B3B7D
 
